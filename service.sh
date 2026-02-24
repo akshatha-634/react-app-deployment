@@ -2,7 +2,7 @@
 
 #installing java:
 apt-get update
-apt-get install -y openjdk-11-jre
+apt-get install -y openjdk-17-jre
 
 #installing docker:
 apt-get update
